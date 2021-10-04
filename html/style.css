@@ -17,8 +17,8 @@
 
 #text {
     text-align: left;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 10%;
+    padding-right: 10%;
     margin: 1vh 5%;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -26,6 +26,15 @@
 
 #pageDisplay {
     text-align: center;
+    margin: 1vh 5%;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#middleText {
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
     margin: 1vh 5%;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
